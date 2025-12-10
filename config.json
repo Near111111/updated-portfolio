@@ -1,0 +1,48 @@
+{
+  "personal": {
+    "name": "Jomar Aniñon",
+    "title": "Machine Learning Engineer",
+    "location": "Metro Manila, Philippines",
+    "email": "aninonjomar@gmail.com",
+    "bio": "I'm a backend developer and machine learning engineer with a passion for building scalable applications and exploring AI technologies. With experience in various programming languages and frameworks, I enjoy creating efficient solutions to complex problems."
+  },
+  "social": {
+    "linkedin": "https://linkedin.com/in/yourprofile",
+    "github": "https://github.com/yourprofile",
+    "instagram": "https://instagram.com/yourprofile",
+    "twitter": "https://twitter.com/yourprofile"
+  },
+  "sections": {
+    "hero": {
+      "enabled": true,
+      "badge": "DICT OpenGov Hackathon 2025 Champion",
+      "ctaText": "Visit my community and join the discussion here!"
+    },
+    "about": {
+      "enabled": true
+    },
+    "experience": {
+      "enabled": true
+    },
+    "techStack": {
+      "enabled": true
+    },
+    "projects": {
+      "enabled": true
+    },
+    "certifications": {
+      "enabled": true
+    },
+    "recommendations": {
+      "enabled": true
+    },
+    "contact": {
+      "enabled": true
+    }
+  },
+  "styling": {
+    "primaryColor": "#007bff",
+    "accentColor": "#8b5cf6",
+    "fontFamily": "system-ui"
+  }
+}
